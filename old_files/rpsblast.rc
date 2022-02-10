@@ -1,0 +1,4 @@
+NumCpuToUse    4
+
+blastp CDD/test_CDD_db
+blastx CDD/test_CDD_db

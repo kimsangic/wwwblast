@@ -1,0 +1,7 @@
+NumCpuToUse    4
+
+blastn test_na_db
+blastp test_aa_db
+blastx test_aa_db
+tblastn test_na_db
+tblastx test_na_db
