@@ -6,6 +6,3 @@ This project extends and customize wwwBLAST. Some of the changes are:
 * Improved user interfaces.
 * Scripts for upgrading the installed databases.
 
-#Source
-Sources for wwwBlast were downloaded from:
-ftp://ftp.ncbi.nih.gov/blast/executables/legacy/2.2.9/wwwblast-2.2.9-amd64-linux.tar.gz
